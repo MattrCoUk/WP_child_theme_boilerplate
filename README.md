@@ -8,4 +8,4 @@ Remove extra files, leave only Wordpress theme files:
 
 `[theme path]/clear-boilerplate-files.sh`
 
-(Will remove the git repo, license, README and this script as well) 
+(Will remove the git repo, license, README and the clearing script as well) 
