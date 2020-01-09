@@ -2,8 +2,10 @@
 
 A blank boilerplate to kick-start child theme development.
 
-Clear boilerpate files with the script:
+**Uninstallation**
 
-`[your theme dirs]/clear-boilerplate-files.sh`
+Remove extra files, leave only Wordpress theme files:
 
-(Will remove the git repo, license README and this script as well, leaves default screenshot as you might use it as a template for your own)
+`[theme path]/clear-boilerplate-files.sh`
+
+(Will remove the git repo, license, README and this script as well) 
